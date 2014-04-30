@@ -1,0 +1,25 @@
+{
+  "name": "class",
+  "version": "0.0.0",
+  "description": "A basic class system similar to CoffeeScript's class",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikuazusa/fork2-node-class.git"
+  },
+  "keywords": [
+    "class"
+  ],
+  "author": "Tonny Mo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikuazusa/fork2-node-class/issues"
+  },
+  "devDependencies": {
+    "chai": "~1.9.1",
+    "mocha": "~1.18.2"
+  }
+}

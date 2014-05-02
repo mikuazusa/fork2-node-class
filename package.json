@@ -1,5 +1,5 @@
 {
-  "name": "class",
+  "name": "Class",
   "version": "0.0.0",
   "description": "A basic class system similar to CoffeeScript's class",
   "main": "index.js",
@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "chai": "~1.9.1",
-    "mocha": "~1.18.2"
+    "mocha": "~1.18.2",
+    "coffee-script": "~1.7.1"
   }
 }
